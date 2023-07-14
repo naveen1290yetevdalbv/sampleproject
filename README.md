@@ -1,2 +1,2 @@
 # sampleproject
-wjgwdgwugwygdyggit add .
+wjgwdgwugwygdyggit
